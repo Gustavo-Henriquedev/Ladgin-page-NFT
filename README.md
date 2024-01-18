@@ -1,6 +1,7 @@
 
 ## 📖 Descrição
 <br/>
+
 Essa é uma lading page NFT criada com HTML, Css, js mordeno.Totalmente responsiva
 
 ## ⏳ Detalhes do que eu usei
