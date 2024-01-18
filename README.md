@@ -10,7 +10,7 @@ e também animações CSS (Keyframes) para alguns efeitos de animações interes
 
 
 Screenshot
-
+Aqui temos a captura de tela do projeto:
 ![NFT](https://github.com/Gustavo-Henriquedev/Ladgin-page-NFT/assets/132942108/df152c75-1d95-4a6e-ae27-6472786caf2d)
 
 
