@@ -1,6 +1,7 @@
 
 ## 📖 Descrição
-<br/>Essa é uma lading page NFT criada com HTML, Css, js mordeno.Totalmente responsiva
+<br/>
+Essa é uma lading page NFT criada com HTML, Css, js mordeno.Totalmente responsiva
 
 ## ⏳ Detalhes do que eu usei
 <br/>
@@ -8,7 +9,6 @@ Utilizei gradiente linear CSS, CSS Grid, CSS Flexbox,
 consultas de mídia para o design responsivo e transições,
 e também animações CSS (Keyframes) para alguns efeitos de animações interessantes.
 <br/>
-
 
 ## Screenshot
 <br/>
